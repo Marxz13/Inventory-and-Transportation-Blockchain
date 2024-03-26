@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1711421473 source:e:\c++\inventory_management\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<chrono>
+	<iomanip>
+	<sstream>
+	<random>
+	<fstream>
+	<thread>
+	<windows.h>
+	<unistd.h>
+	<cstring>
+	"Block.h"
+	"Blockchain.h"
+	"Authentication.h"
+	"FileOperations.h"
+
+1711381784 e:\c++\inventory_management\hash_util.h
+	<string>
+
+1711381781 source:e:\c++\inventory_management\hash_util.cpp
+	"hash_util.h"
+	<random>
+	<chrono>
+	<ctime>
+
+1711385224 e:\c++\inventory_management\block_utils.h
+	<string>
+	<vector>
+
+1711420331 source:e:\c++\inventory_management\blockchain.cpp
+	"Blockchain.h"
+	"Block.h"
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1711421523 e:\c++\inventory_management\blockchain.h
+	"Block.h"
+	<vector>
+	<random>
+	<chrono>
+	<ctime>
+	<string>
+
+1711385456 e:\c++\inventory_management\block.h
+	<string>
+
+1711395185 source:e:\c++\inventory_management\authentication.cpp
+	"Authentication.h"
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+
+1711395177 e:\c++\inventory_management\authentication.h
+
+1711421924 e:\c++\inventory_management\fileoperations.h
+	<vector>
+	<string>
+	"Block.h"
+
+1711421957 source:e:\c++\inventory_management\fileoperations.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<sstream>
+	<cstring>
+	"Blockchain.h"
+	"FileOperations.h"
+	<windows.h>
+

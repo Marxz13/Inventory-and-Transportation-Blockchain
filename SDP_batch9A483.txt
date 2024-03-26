@@ -1,0 +1,51 @@
+Stage:1,BlockID:1,CurrentHash:ITv4aK2F78kPtGRWpeJu17099628190,PreviousHash:genesis_hash,Time:2024-03-09 13:40:19,Info:
+Farm ID                 : SDP1001
+Farm Location           : Port Dickson, MY
+Quantity                : 5000 Kg
+
+Harvest Date            : 2024-03-01
+Process Details         : Cold-press extraction
+
+Batch Number            : Cert#BP102
+Plantation Certificate  : BP-032024
+Stage:2,BlockID:2,CurrentHash:ITv4aK2F78kPtGRWpeJu17099628591,PreviousHash:ITv4aK2F78kPtGRWpeJu17099628190,Time:2024-03-09 13:40:59,Info:
+Inspection Date         : 2024-03-03
+Inspector Name          : Myung Soo
+
+QA Report ID            : QA-2003-032024
+QA Test Result          : Passed
+Non-Conformance Reports : None
+Approval Status         : Approved for Packaging
+Stage:3,BlockID:3,CurrentHash:ITv4aK2F78kPtGRWpeJu17099643192,PreviousHash:ITv4aK2F78kPtGRWpeJu17099628591,Time:2024-03-09 14:05:19,Info:
+Packaging Date       : 2024-03-05
+Packaging Type       : Biodegradable Containers
+
+Quantity Packaged    : 5000 Kg
+Package Line         : Line 2
+
+Label Information    : Organic Palm Oil, Non-GMO
+Stage:4,BlockID:4,CurrentHash:ITv4aK2F78kPtGRWpeJu17099644303,PreviousHash:ITv4aK2F78kPtGRWpeJu17099643192,Time:2024-03-09 14:07:10,Info:
+Warehouse ID       : WH1024
+Warehouse Name     : SIME DARBY PARTS DISTRIBUTION CENTRE
+
+Storage Location   : Zone A, Section 5
+Storage Condition  : Excellent
+
+Security Measures  : Temperature controlled at 25øC
+Inventory Level    : 5000 Kg
+Stage:5,BlockID:5,CurrentHash:ITv4aK2F78kPtGRWpeJu17099645424,PreviousHash:ITv4aK2F78kPtGRWpeJu17099644303,Time:2024-03-09 14:09:02,Info:Transport Type           :  Refrigerated Truck
+
+Departure Date         : 2024-03-10
+Estimated Arrival Date : 2024-03-15
+
+Temperature Control    : Maintained at 25øC
+Route Information      : Portdickson to Kuala Lumpur
+Carrier Information    : PT Fast Transport
+Stage:6,BlockID:6,CurrentHash:ITv4aK2F78kPtGRWpeJu17099645895,PreviousHash:ITv4aK2F78kPtGRWpeJu17099645424,Time:2024-03-09 14:09:49,Info:
+Shelving date           :  2024-03-16
+Store Location          : Lotus Kuala Lumpur
+Shelf Life              : 3 years
+
+Promotional Information : none
+
+Customer Feedback       : High rated for quality and sustainability
