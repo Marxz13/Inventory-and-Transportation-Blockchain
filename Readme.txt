@@ -1,4 +1,4 @@
-# Inventory and Transport Management System using Blockchain
+**Inventory and Transport Management System using Blockchain**
 
 This C++ application utilizes blockchain technology for secure and transparent management of inventory and transport logistics. It is designed to ensure data integrity and security, providing a straightforward method for managing and tracking inventory and transport data.
 
